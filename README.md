@@ -46,3 +46,18 @@ En resumen, la placa Tuxedo 18650 contiene lo siguiente:
 - Interruptor de alimentación deslizable.
 
 En este enlace podrás descargar el manual de uso: [Manual de usuario Tuxedo 18650 V1.0](https://github.com/RocketLauncherCDMX/Tuxedo18650/blob/0786c899abc0366a833ea90629ad312b154c0426/Tuxedo%2018650%20user%20manual%20V1.0.pdf)
+
+Uso en Arduino
+
+La Tuxedo 18650 está pensada para usarse sin la necesidad de una bilioteca dedicada en Arduino, ya que todos sus pines se encuentran impresos en la parte posterior, y en Arduino se pueden manipular con el número que tienen asignados los pines.
+
+Para poder programar la Tuxedo 18650 es necesario instalar el núcleo de **Expressif** que incorpora todo lo necesario para el ESP32. Bastará con seguir los siguientes pasos en Arduino:
+
+1. Dentro de Arduino, ir a la pestaña **Archivo/Preferencias**
+
+![image](https://github.com/user-attachments/assets/82898605-1747-4ae7-9fe4-7b8fdb20edb0)
+
+2. ![Preferencias_linkExpressif](https://github.com/user-attachments/assets/b5720a72-9957-4b0f-8dbd-a52f78304654)
+
+
+
