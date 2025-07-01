@@ -72,8 +72,9 @@ Para poder programar la Tuxedo 18650 es necesario instalar el núcleo de **Expre
   <img src="https://github.com/user-attachments/assets/5beda194-2321-46ad-8e89-28798b30ce77" alt="Tuxedo 18650 caracteristicas" width="720"/>
 </p>
 <br>
+
 4. En la ventana **Gestor de tarjetas** dentro del recuadro buscaremos ESP32, e instalaremos el core **esp32** de **Expressif Systems**
 </p> 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0019509b-b470-45c8-917c-49c1109986c1" alt="Tuxedo 18650 caracteristicas" width="720"/>
+  <img src="https://github.com/user-attachments/assets/a5149151-78a2-4800-8a81-28250ae1337a" alt="Tuxedo 18650 caracteristicas" width="720"/>
 </p>
