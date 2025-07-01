@@ -20,7 +20,7 @@ Sus características claves son:
 
 Pero lo verdaderamente interesante de esta placa no es su microcontrolador, si no todo el hardware que trae embebido en la propia tarjeta, de esta manera, el usuario puede llevar a cabo prácticas y proyectos muy interesantes y completos, sin la necesidad de conectar módulos externos; no obstante, la Tuxedo 18650 también lo permite, puesto que tiene los puertos **I2C**, **SPI**, **USB** y entradas y salidas digitales.
 
-Su principal característica y la cual le da el nombre, es que es capaz de funcionar con **2 baterías recargables 18650** en serie, ya que possé tanto un conector JST de 2 pines, como un cargador de baterías LiPo. Es importante señalar que, únicamente se deben conectar 2 pilas 18650 en serie, con la polaridad correcta.
+Su principal característica y la cual le da el nombre, es que es capaz de funcionar con **2 baterías recargables 18650** en serie, ya que possé tanto un conector JST de 2 pines, como un cargador de baterías LiPo. Es importante señalar que, únicamente se deben conectar 2 pilas 18650 en serie, con la polaridad correcta. El portapila y las baterías 18650 se venden por separado.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6033d193-b3fe-4b9e-a970-f232bfa8e154" alt="Tuxedo 18650 baterias" width="1020"/>
