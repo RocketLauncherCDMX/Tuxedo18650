@@ -45,4 +45,4 @@ En resumen, la placa Tuxedo 18650 contiene lo siguiente:
 - 1 LED Neopixel RGB digital.
 - Interruptor de alimentación deslizable.
 
-En este enlace podrás descargar su hoja de datos: [Hoja de datos Tuxedo 18650 V0.3 - V1.0](https://ejemplo.com)
+En este enlace podrás descargar el manual de uso: [Manual de usuario Tuxedo 18650 V1.0](https://github.com/RocketLauncherCDMX/Tuxedo18650/blob/0786c899abc0366a833ea90629ad312b154c0426/Tuxedo%2018650%20user%20manual%20V1.0.pdf)
