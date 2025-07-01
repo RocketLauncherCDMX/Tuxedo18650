@@ -53,10 +53,9 @@ La Tuxedo 18650 está pensada para usarse sin la necesidad de una bilioteca dedi
 
 Para poder programar la Tuxedo 18650 es necesario instalar el núcleo de **Expressif** que incorpora todo lo necesario para el ESP32. Bastará con seguir los siguientes pasos en Arduino:
 
-
 <p> 1. Dentro de Arduino, ir a la pestaña **Archivo/Preferencias** </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/475720f7-a143-408e-aa68-63772dfccb01" alt="Tuxedo 18650 caracteristicas" width="720"/>
+  <img src="https://github.com/user-attachments/assets/7f866c64-77d8-482e-878b-2c8df216b857" alt="Tuxedo 18650 caracteristicas" width="720"/>
 </p>
 
 <p> 1. En la ventana Preferencias, hacer click en el ícono que se muestra o introducir en el recuadro el siguiente link:
