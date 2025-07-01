@@ -23,7 +23,7 @@ Pero lo verdaderamente interesante de esta placa no es su microcontrolador, si n
 Su principal característica y la cual le da el nombre, es que es capaz de funcionar con **2 baterías recargables 18650** en serie, ya que possé tanto un conector JST de 2 pines, como un cargador de baterías LiPo. Es importante señalar que, únicamente se deben conectar 2 pilas 18650 en serie, con la polaridad correcta.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6033d193-b3fe-4b9e-a970-f232bfa8e154" alt="Tuxedo 18650 baterias" width="512"/>
+  <img src="https://github.com/user-attachments/assets/6033d193-b3fe-4b9e-a970-f232bfa8e154" alt="Tuxedo 18650 baterias" width="1020"/>
 </p>
 
 En resumen, la placa Tuxedo 18650 contiene lo siguiente:
