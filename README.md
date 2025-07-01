@@ -15,7 +15,7 @@ Sus características claves son:
 - 2 drivers puente H para manejar 2 motores de DC de hasta 1.5A o un motor a pasos bipolar.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/02f646e5-ef69-476a-b33a-822569a2e458" alt="Tuxedo 18650 caracteristicas" width="720"/>
+  <img src="https://github.com/user-attachments/assets/475720f7-a143-408e-aa68-63772dfccb01" alt="Tuxedo 18650 caracteristicas" width="720"/>
 </p>
 
 Pero lo verdaderamente interesante de esta placa no es su microcontrolador, si no todo el hardware que trae embebido en la propia tarjeta, de esta manera, el usuario puede llevar a cabo prácticas y proyectos muy interesantes y completos, sin la necesidad de conectar módulos externos; no obstante, la Tuxedo 18650 también lo permite, puesto que tiene los puertos **I2C**, **SPI**, **USB** y entradas y salidas digitales.
