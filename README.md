@@ -1,4 +1,4 @@
-La **Tuxedo 18650** es una placa de desarrollo con hardware integrado. Su nucleo contiene un microcontrolador WROOM32-ESP32D, el cuál corre a 240MHz, tiene WiFi y Bluetooth. 
+La **Tuxedo 18650** es una placa de desarrollo con hardware integrado. Su nucleo contiene un microcontrolador WROOM32-ESP32, el cuál corre a 240MHz, tiene WiFi y Bluetooth. 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5fb13976-9757-4182-aaf8-e7b9585a1828" alt="Tuxedo 18650 front" width="512"/>
