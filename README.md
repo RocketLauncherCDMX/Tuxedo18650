@@ -3,7 +3,7 @@ La **Tuxedo 18650** es una placa de desarrollo con hardware integrado. Su nucleo
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5fb13976-9757-4182-aaf8-e7b9585a1828" alt="Tuxedo 18650 front" width="512"/>
   <br><br>
-  <img src="https://github.com/user-attachments/assets/05dd7a3d-ee69-4c90-b220-9b321d798515" alt="Tuxedo 18650 back" width="512"/>
+  <img src="https://github.com/user-attachments/assets/76dbbbf6-7081-4a05-93e0-28ae0a758c0c" alt="Tuxedo 18650 back" width="512"/>
 </p>
 
 Sus características claves son:
