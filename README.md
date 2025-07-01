@@ -78,3 +78,10 @@ Para poder programar la Tuxedo 18650 es necesario instalar el núcleo de **Expre
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a5149151-78a2-4800-8a81-28250ae1337a" alt="Tuxedo 18650 caracteristicas" width="720"/>
 </p>
+<br>
+
+5. Cuando Arduino haya terminado de instalar el core, cerraremos la ventana e iremos al menú **Herramientas/Placa/ESP32 Arduino** y seleccionaremos **ESP32 Dev Module** como placa.
+</p> 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/02c159c3-9b49-479e-9af8-11ccad509869" alt="Tuxedo 18650 caracteristicas" width="720"/>
+</p>
