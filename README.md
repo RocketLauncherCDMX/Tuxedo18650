@@ -1,4 +1,4 @@
-##La **Tuxedo 18650** es una placa de desarrollo con hardware integrado. Su nucleo contiene un microcontrolador WROOM32-ESP32D, el cuál corre a 240MHz, tiene WiFi y Bluetooth. 
+La **Tuxedo 18650** es una placa de desarrollo con hardware integrado. Su nucleo contiene un microcontrolador WROOM32-ESP32D, el cuál corre a 240MHz, tiene WiFi y Bluetooth. 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5fb13976-9757-4182-aaf8-e7b9585a1828" alt="Tuxedo 18650" width="512"/>
@@ -13,14 +13,17 @@ Sus características claves son:
 - Conectores para I2C, SPI y Voltaje de la batería (entre 6.4V y 8.4V).
 - 2 drivers puente H para manejar 2 motores de DC de hasta 1.5A o un motor a pasos bipolar.
 
-![Tuxedo18650_014](https://github.com/user-attachments/assets/e481779e-2728-425e-bc26-0f80429c1512)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e481779e-2728-425e-bc26-0f80429c1512" alt="Tuxedo 18650 caracteristicas" width="512"/>
+</p>
 
 Pero lo verdaderamente interesante de esta placa no es su microcontrolador, si no todo el hardware que trae embebido en la propia tarjeta, de esta manera, el usuario puede llevar a cabo prácticas y proyectos muy interesantes y completos, sin la necesidad de conectar módulos externos; no obstante, la Tuxedo 18650 también lo permite, puesto que tiene los puertos **I2C**, **SPI**, **USB** y entradas y salidas digitales.
 
 Su principal característica y la cual le da el nombre, es que es capaz de funcionar con **2 baterías recargables 18650** en serie, ya que possé tanto un conector JST de 2 pines, como un cargador de baterías LiPo. Es importante señalar que, únicamente se deben conectar 2 pilas 18650 en serie, con la polaridad correcta.
 
-![Tuxedo18650_015](https://github.com/user-attachments/assets/21a002cb-1e6a-434e-a294-c5bdc4cc220f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/21a002cb-1e6a-434e-a294-c5bdc4cc220f" alt="Tuxedo 18650 baterias" width="512"/>
+</p>
 
 En resumen, la placa Tuxedo 18650 contiene lo siguiente:
 
