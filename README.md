@@ -51,6 +51,28 @@ Uso en Arduino
 
 La Tuxedo 18650 está pensada para usarse sin la necesidad de una bilioteca dedicada en Arduino, ya que todos sus pines se encuentran impresos en la parte posterior, y en Arduino se pueden manipular con el número que tienen asignados los pines.
 
+<br>
+
+| PIN | Funcion      |
+|-----|--------------| 
+| 35  | Botón A      |
+| 34  | Botón B      |
+| 39  | Botón C      |
+| 32  | LED1         |
+| 33  | LED2         |
+| 25  | Neopixel RGB |
+| 27  | Buzzer       |
+| 36  | Monitor bat. |
+|  4  | Motor A IN1  |
+|  5  | Motor A IN2  |
+|  2  | Motor B IN1  |
+| 21  | Motor B IN2  |
+| 26  | Motor enable |
+| 22  | I2C SCL      |
+| 23  | I2C SDA      |
+
+<br>
+
 Para poder programar la Tuxedo 18650 es necesario instalar el núcleo de **Expressif** que incorpora todo lo necesario para el ESP32. Bastará con seguir los siguientes pasos en Arduino:
 
 <p> 1. Dentro de Arduino, ir a la pestaña **Archivo/Preferencias** </p>
