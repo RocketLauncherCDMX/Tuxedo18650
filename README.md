@@ -2,8 +2,6 @@ La **Tuxedo 18650** es una placa de desarrollo con hardware integrado. Su nucleo
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5fb13976-9757-4182-aaf8-e7b9585a1828" alt="Tuxedo 18650 front" width="512"/>
-  <br><br>
-  <img src="https://github.com/user-attachments/assets/76dbbbf6-7081-4a05-93e0-28ae0a758c0c" alt="Tuxedo 18650 back" width="512"/>
 </p>
 
 Sus características claves son:
@@ -51,7 +49,13 @@ Uso en Arduino
 
 La Tuxedo 18650 está pensada para usarse sin la necesidad de una bilioteca dedicada en Arduino, ya que todos sus pines se encuentran impresos en la parte posterior, y en Arduino se pueden manipular con el número que tienen asignados los pines.
 
-<br>
+<p align="center">
+  <br>
+  <img src="https://github.com/user-attachments/assets/5fb13976-9757-4182-aaf8-e7b9585a1828" alt="Tuxedo 18650 front" width="512"/>
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/76dbbbf6-7081-4a05-93e0-28ae0a758c0c" alt="Tuxedo 18650 back" width="512"/>
+  <br>
+</p>
 
 | PIN | Funcion      |
 |-----|--------------| 
