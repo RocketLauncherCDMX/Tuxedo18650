@@ -26,22 +26,25 @@ Su principal característica y la cual le da el nombre, es que es capaz de funci
 
 En resumen, la placa Tuxedo 18650 contiene lo siguiente:
 
-- Conector de batería JST de 2mm de separación (usado en baterías LiPo), para conectar un paquete de 2 baterías 18650 en serie.
-- Circuito de carga de batería con detector de batería faltante, y LEDs de carga y carga completa.  
-- Convertidor USB a Serial, con conector USB C.
-- Fusible reseteable de hasta 3A. ¡Olvidate de los cortos circuitos!
-- Regulador de 3.3V a 500mA.
-- Fuente de alimentación de 5V 3A.
-- Selector de voltaje entre 3.3V y 5V, ideal para trabajar con circuitos TTL y CMOS.
-- 3 Puertos I2C (se conectan en paralelo al puerto I2C del ESP32).
-- 1 Puerto SPI.
-- Conversor de niveles de entrada o salida para todas las señales digitales, incluidos el I2C y el SPI.
-- 2 Drivers DRV8837 puente H de hasta 1.5A para 2 motores de DC o uno a pasos bipolar.
-- Buzzer pasivo super compacto.
-- 3 botónes de usuario + botón de Reset.
-- 2 LEDs de usuario.
-- 1 LED Neopixel RGB digital.
-- Interruptor de alimentación deslizable.
+| Elemento / Módulo                                          | Especificación / Notas                                                                 |
+|:-----------------------------------------------------------|:---------------------------------------------------------------------------------------|
+| Conector de batería JST 2 mm                               | Para paquetes LiPo; conexión para 2 celdas 18650 en serie                             |
+| Cargador de batería                                        | Detector de batería faltante; LEDs de “cargando” y “carga completa”                   |
+| USB–Serial (USB-C)                                         | Convertidor USB a Serial con conector USB Tipo-C                                      |
+| Fusible reseteable                                         | Hasta 3 A; protección contra cortocircuitos                                           |
+| Regulador 3.3 V                                            | Salida 500 mA                                                                          |
+| Fuente 5 V                                                 | Hasta 3 A                                                                              |
+| Selector de voltaje                                        | Conmutación entre 3.3 V y 5 V (TTL/CMOS)                                              |
+| Puertos I²C                                                | 3 puertos en paralelo al I²C del ESP32                                                |
+| Puerto SPI                                                 | 1 puerto                                                                               |
+| Conversor de niveles                                       | Para todas las señales digitales, incluyendo I²C y SPI                                |
+| Drivers de motor DRV8837                                   | 2 puentes H de hasta 1.5 A (2 DC o 1 paso a paso bipolar)                             |
+| Buzzer pasivo                                              | Formato super compacto                                                                 |
+| Botones de usuario + Reset                                 | 3 botones de usuario + 1 botón de Reset                                               |
+| LEDs de usuario                                            | 2 LEDs                                                                                 |
+| LED Neopixel                                               | 1 LED RGB digital                                                                      |
+| Interruptor de alimentación                                | Tipo deslizable                                                                        |
+
 
 En este enlace podrás descargar el manual de uso: [Manual de usuario Tuxedo 18650 V1.0](https://github.com/RocketLauncherCDMX/Tuxedo18650/blob/0786c899abc0366a833ea90629ad312b154c0426/Tuxedo%2018650%20user%20manual%20V1.0.pdf)
 
