@@ -56,6 +56,7 @@ La Tuxedo 18650 está pensada para usarse sin la necesidad de una bilioteca dedi
 </p>
 
 <div align="center">
+  
 | PIN | Funcion      |
 |-----|--------------| 
 | 35  | Botón A      |
@@ -73,6 +74,7 @@ La Tuxedo 18650 está pensada para usarse sin la necesidad de una bilioteca dedi
 | 26  | Motor enable |
 | 22  | I2C SCL      |
 | 23  | I2C SDA      |
+
 </div>
 
 <br>
